@@ -1,0 +1,11 @@
+.container{
+    margin-top: 200px;
+    height: 375px;
+    width: 400px;
+    background-color: rgb(240, 240, 100);
+}
+.card{
+    height: auto;
+    width: 370px;
+    background-color: beige;
+}
